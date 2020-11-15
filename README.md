@@ -12,22 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Soumya here </h2>
 
-### Hi there 👋<h2> I'm Sarthak</h2>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Curious about latest Tech
+- 🏢 &nbsp; Senior Java|DevOps Engineer at Standard Bank,South Africa.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🤠 &nbsp; Love to solve Challenging problems. "There's always a simpler and better way 😉"
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🎓 &nbsp; Learning Cloud Native & AWS DevOps.
 
-- ✍️ &nbsp; Pursuing Game Development as hobbies/side hustles.
+- ✍️ &nbsp; Interested in Distributed System Design, Always ON Systems and Complete Automation.
+
 
 
 
