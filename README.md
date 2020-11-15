@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Soumya here </h2>
+<h2> I am Soumya </h2>
 
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
 
@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 
 
-- 💻 &nbsp; Python | C# | C++ | Data Structure | Algorithm | Unity | Unreal
+- 💻 &nbsp; Java (Springboot | JPA | Maven | Gradle)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Flask | Django | FastAPI
+- 🌐 &nbsp; 
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; RDBMS : Oracle | MySQL
 
 - 🔧 &nbsp; Git | Markdown 
 
@@ -83,10 +83,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/spattanaik74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sarthak%20Pattanaik-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/spattanaik75/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Soumya%20Pattanaik-blue?style=flat-square&logo=linkedin"></a>
 
 
-<a href="mailto:spattanaik74@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-spattanaik74@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:spattanaik75@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-spattanaik75@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=spattanaik74.spattanaik74)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=spattanaik75.spattanaik75)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
