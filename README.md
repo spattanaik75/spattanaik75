@@ -45,7 +45,7 @@ My name is Soumya Pattanaik and I'm a software developer/DevOps engineer. I'm fr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spattanaik75&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/spattanaik75/spattanaik75">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spattanaik75&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spattanaik75&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soumya's GitHub Stats" />
 </a>
 
 <a href="https://github.com/spattanaik75/mongo-api-graphql">
