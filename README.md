@@ -29,13 +29,9 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Interested in Distributed System Design, Always ON Systems and Complete Automation.
 
 
+<h3>🛠 Experienced in </h3>
 
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Java (Springboot | JPA | Maven | Gradle)
+- 💻 &nbsp; https://www.python.org/static/community_logos/python-logo-generic.svg
 
 - 🌐 &nbsp; 
 
@@ -46,18 +42,9 @@ Here are some ideas to get you started:
 - 🖥 &nbsp; Illustrator| Photoshop | Blender
 
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳
-
-<hr>
-
-
-
 <br/><br/>
 
-[![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spattanaik74&show_icons=true)](https://github.com/spattanaik74)
+[![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spattanaik75&show_icons=true)](https://github.com/spattanaik75)
 
 <br/>
 
@@ -65,7 +52,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spattanaik74&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spattanaik75&show_icons=true)
 
 <br><br>
 
