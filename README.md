@@ -8,30 +8,36 @@ My name is Soumya Pattanaik and I'm a software developer/DevOps engineer. I'm fr
 
 <!-- OS -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-<!-- IDE -->
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
 <!-- CODE -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
 <!-- Database and Queues -->
 ![](https://img.shields.io/badge/SQL-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TimeSeries-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Q-JMS-informational?style=flat&logo=jms&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Q-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Q-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a)
 <!-- DevOps -->
+<!-- Deployment -->
 ![](https://img.shields.io/badge/CloudNative-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CloudNative-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CloudNative-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-<!-- Configuration Management -->
-![](https://img.shields.io/badge/CloudNative-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CloudNative-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CloudNative-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+<!-- Documentation -->
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Documentation-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/CI-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Artifacts-Artifactory-informational?style=flat&logo=artifactory&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Artifacts-Nexus-informational?style=flat&logo=nexus&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
