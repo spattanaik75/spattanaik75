@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif" width="100px">
 
-My name is Soumya Pattanaik and I'm a software developer/DevOps engineer. I'm from India, living in South Africa and currently working at Standard Bank. You can reach me at [![][twitter.icon]][twitter.link],  or [![][linkedin.icon]][linkedin.link].
+My name is Soumya Pattanaik and I'm a software developer/DevOps engineer. I'm from India, living in South Africa and currently working at Standard Bank. You can reach me at [![][linkedin.icon]][linkedin.link] or spattanaik75@gmail.com
 
 ## 🔧 Technologies & Tools
 
